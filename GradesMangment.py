@@ -36,7 +36,6 @@ def display_all_student():
 
 
 
-
 def main():
     while True:
         print('\n Student Grades Management System !')
